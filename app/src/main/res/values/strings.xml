@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tela</string>
+    <string name="app_description">Riscos devem ser corridos, porque o maior perigo é não arriscar nada!</string>
+    <string name="app_hello">Olá, kotlin!</string>
+    <string name="app_you_name">Qual seu nome ?</string>
+    <string name="app_you_name_empty">Digite um nome válido!</string>
+
+</resources>
