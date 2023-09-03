@@ -5,7 +5,7 @@ import java.util.Random
 
 class Phrase(val description:String, val categoryId: Int)
 
-private val inifinit:String = "O infinito é como um horizonte sem fim, onde os sonhos se entrelaçam com as estrelas e a esperança nunca conhece limites."
+private val inifinit:String = "Meu bem, libera o Butico!"
 private val sentiment:String = "Um sorriso é a luz que ilumina o rosto e aquece o coração, uma linguagem universal que transcende as palavras e une as almas."
 private val sunny:String = "O sol, incansável e radiante, é a centelha da vida que abraça a Terra todos os dias, pintando o céu com suas cores douradas e nutrindo a essência de tudo o que existe."
 
